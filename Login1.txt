@@ -3,6 +3,7 @@
              <title>Pune</title>
        </head>
    <body>
+   	 	<span>Username</span>
        <input type="text" placeholder="username"> <br><br>
        <input placeholder="password">
        <span>Password</span>
