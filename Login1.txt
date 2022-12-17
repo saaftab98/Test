@@ -1,0 +1,15 @@
+<html>
+       <head> 
+             <title>Pune</title>
+       </head>
+   <body>
+       <input type="text" placeholder="username"> <br><br>
+       <input placeholder="password">
+       <span>Password</span>
+       <input type="password"> <br></br>
+       <input type="radio">
+       <input type="checkbox">
+       <button type="submit">Login</button>
+       <a href="hhtps://www.google.com/">Google</a>
+</body>
+</html>
