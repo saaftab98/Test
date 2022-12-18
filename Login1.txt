@@ -9,7 +9,7 @@
        <span>Password</span>
        <input type="password"> <br></br>
        <input type="radio">
-       <input type="checkbox">
+       <input type="checkbox" Checked>
        <button type="submit">Login</button>
        <a href="hhtps://www.google.com/">Google</a>
 </body>
